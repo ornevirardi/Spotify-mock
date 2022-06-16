@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made following a tutorial by Kishan Sheth (https://www.youtube.com/watch?v=ajVcLGEw8Xw - https://github.com/koolkishan/react-spotify-clone)
 
 ## Available Scripts
 
